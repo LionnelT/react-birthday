@@ -1,7 +1,7 @@
 export default () => (
     <div className="birthdayCard">
       <div className="cardFront">
-        <h3 className="happy">HAPPY BIRTHDAY Cumi! 🌹</h3>
+        <h3 className="happy">HAPPY BIRTHDAY Cumi!</h3>
         <div className="balloons">
           <div className="balloonOne" />
           <div className="balloonTwo" />
@@ -10,7 +10,7 @@ export default () => (
         </div>
       </div>
       <div className="cardInside">
-        <h3 className="back">HAPPY BIRTHDAY Cumi!</h3>
+        <h3 className="back">HAPPY BIRTHDAY Cumi!  🌹</h3>
         <p>Dear Cumi,</p>
         <p>
           Happy birthday! I hope your day is filled with lots of love and
